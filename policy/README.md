@@ -13,7 +13,7 @@ We receive from your device and store on our servers the following data:
 * Device Model
 * The information you enter to use the features of the application.
 
-#### Interaction with social networks.
+### Interaction with social networks.
 For correct operation, the application interacts with social networks. You will see this when you start using the functions of the application. We do not share your data with social networks. What data can be obtained:
 * Time intervals
 * Avatar
