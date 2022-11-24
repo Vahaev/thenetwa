@@ -1,4 +1,4 @@
-# thenetwa
+# TheNetwa
 
 ## Terms of use
 
