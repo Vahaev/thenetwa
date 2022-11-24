@@ -1,5 +1,3 @@
-# TheNetwa
-
 ## Terms of use
 
 ### What data the application receives and stores
